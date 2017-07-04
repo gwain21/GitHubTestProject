@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         ((TextView)findViewById(R.id.main_textView)).setText("This is text");
         //New comment here, commit three
         //New comment as well, commit four
+        //Adding a new branch, commit six
     }
 }
